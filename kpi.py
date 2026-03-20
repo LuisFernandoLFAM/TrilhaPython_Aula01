@@ -17,4 +17,3 @@ valor_bonus = (salario * per_bonus) + 1000
 print("Olá {}, informo que seus bönus será de {}".format(nome_usuario,valor_bonus))
 
 
-
